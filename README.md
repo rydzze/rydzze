@@ -1,7 +1,9 @@
-## print("Hello World!") 👋
+## 👋🏻 Welcome to my GitHub Profile!
 
-### `$ whoami`
+```bash
+rydzze@github:~$ whoami
 
-- Ariff @ Rydzze
-- CS AI 👨🏻‍💻
-- CTF for fun _lmao_ 💀
+❯ 👨🏻‍💻 Ariff @ Rydzze
+❯ 🎓 Studied B.C.S. (Hons.) (AI) @ Multimedia University
+❯ 🕵🏻‍♂️ CTFs during free time, interested in rev & pwn
+```
